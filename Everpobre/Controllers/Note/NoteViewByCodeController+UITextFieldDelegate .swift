@@ -12,7 +12,7 @@ import UIKit
 extension NoteViewByCodeController : UITextFieldDelegate {
     func textFieldDidEndEditing(_ textField: UITextField) {
         note?.title = textField.text
-        
+         
         do {
             try note?.managedObjectContext?.save()
         } catch {

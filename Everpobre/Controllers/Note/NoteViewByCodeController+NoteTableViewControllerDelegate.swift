@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import UIKit
+import UIKit 
 
 extension NoteViewByCodeController : NoteTableViewControllerDelegate {
     func noteTableViewController(_ viewController: NoteTableViewController, didSelectNote: Note) {

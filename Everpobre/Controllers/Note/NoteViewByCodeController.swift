@@ -10,7 +10,7 @@ import UIKit
 
 class NoteViewByCodeController: UIViewController  {
     
-    // MARK: - Subviews
+    // MARK: - Subviews 
     
     let formatter: DateFormatter
     

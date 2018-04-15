@@ -10,4 +10,4 @@ import Foundation
 import UIKit
 
 extension NoteViewByCodeController : UINavigationControllerDelegate {
-}
+} 

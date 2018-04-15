@@ -6,7 +6,7 @@
 //  Copyright © 2018 Antonio Blazquez Bea. All rights reserved.
 //
 
-import Foundation
+import Foundation 
 import UIKit
 
 extension NoteViewByCodeController {
